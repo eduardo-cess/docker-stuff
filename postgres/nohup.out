@@ -1,0 +1,753 @@
+> Start DBeaver Standalone [org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810]
+> Start Eclipse IDE UI Application [org.eclipse.ui.ide.application 1.4.0.v20210122-1423]
+> Start Eclipse e4 Workbench [org.eclipse.e4.ui.workbench 1.12.100.v20210122-1731]
+> Start Eclipse Workbench Model [org.eclipse.e4.ui.model.workbench 2.1.1000.v20210111-0958]
+> Start Eclipse Jobs Mechanism [org.eclipse.core.jobs 3.10.1100.v20210111-0815]
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.18.100.v20210122-1536]
+> Start DBeaver Core Plug-in [org.jkiss.dbeaver.core 21.1.3.202107181810]
+2021-08-04 08:44:38.054 - Initializing DBeaver 21.1.3
+2021-08-04 08:44:38.054 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810
+2021-08-04 08:44:38.055 - Initialize Core...
+2021-08-04 08:44:38.055 - Can't find BC security provider. Use default JCE.
+2021-08-04 08:44:38.056 - BouncyCastle not registered, using the default JCE provider
+> Start Core File Systems [org.eclipse.core.filesystem 1.7.700.v20200110-1734]
+> Start Core Resource Management [org.eclipse.core.resources 3.14.0.v20210215-0934]
+2021-08-04 08:44:38.220 - Initialize base platform...
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.61.202107181810]
+2021-08-04 08:44:38.241 - Core initialized (186ms)
+2021-08-04 08:44:38.242 - Create display
+2021-08-04 08:44:38.345 - DBeaver 21.1.3.202107181810 is starting
+2021-08-04 08:44:38.346 - OS: Linux 5.4.0-80-generic (amd64)
+2021-08-04 08:44:38.346 - Java version: 11.0.11 by AdoptOpenJDK (64bit)
+2021-08-04 08:44:38.346 - Install path: '/usr/share/dbeaver'
+2021-08-04 08:44:38.346 - Instance path: 'file:/home/csantiago/.local/share/DBeaverData/workspace6/'
+2021-08-04 08:44:38.346 - Memory available 64Mb/1024Mb
+2021-08-04 08:44:38.367 - Starting RMI server at 51374
+2021-08-04 08:44:38.429 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.16.0.v20201230-1610]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.2.600.v20210110-1654]
+> Start Eclipse Contexts [org.eclipse.e4.core.contexts 1.8.400.v20191217-1710]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+> Start EMF Common [org.eclipse.emf.common 2.22.0.v20210114-1734]
+> Start EMF Ecore [org.eclipse.emf.ecore 2.23.0.v20200630-0516]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse UI Dependency Injection [org.eclipse.e4.ui.di 1.3.0.v20210222-1018]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.4.100.v20201221-2332]
+> Start Expression Language [org.eclipse.core.expressions 3.7.100.v20210203-1000]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.15.0.v20201125-0918]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.0.v20201119-1132]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.16.0.v20200507-0938]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.14.100.v20201217-1340]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.76.202107181810]
+2021-08-04 08:44:40.453 - Configure workbench window
+> Start Help System Core [org.eclipse.help 3.8.800.v20200525-0755]
+2021-08-04 08:44:40.670 - Create actions
+2021-08-04 08:44:40.675 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2021-08-04 08:44:40.675 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2021-08-04 08:44:40.675 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2021-08-04 08:44:41.216 - Initialize workbench window
+2021-08-04 08:44:41.230 - Finish initialization
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.61.202107181810]
+> Start Default Text Editor [org.eclipse.ui.editors 3.14.0.v20210215-0846]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.16.0.v20210120-0733]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.21.202107181810]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.21.202107181810]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.51.202107181810]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.61.202107181810]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.600.v20210126-1005]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.3.800.v20200422-1935]
+> Start Internet Connection Management [org.eclipse.core.net 1.3.1000.v20200715-0827]
+2021-08-04 08:44:42.245 - Loading user drivers configuration from '/home/csantiago/.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.core/drivers.xml'
+2021-08-04 08:44:42.261 - Total database drivers: 90 (90)
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.61.202107181810]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.98.202107181810]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.67.202107181810]
+> Start Team Support Core [org.eclipse.team.core 3.8.1100.v20200806-0621]
+2021-08-04 08:45:19.030 - DBeaver is stopping
+2021-08-04 08:45:19.031 - Stop RMI server
+2021-08-04 08:45:19.051 - DBeaver shutdown completed
+2021-08-04 08:45:19.075 - Shutdown Core...
+2021-08-04 08:45:19.121 - Shutdown completed in 46ms
+[3013:3013:0804/085028.966744:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+> Start DBeaver Standalone [org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810]
+> Start Eclipse Workbench Model [org.eclipse.e4.ui.model.workbench 2.1.1000.v20210111-0958]
+> Start Eclipse IDE UI Application [org.eclipse.ui.ide.application 1.4.0.v20210122-1423]
+> Start Eclipse Jobs Mechanism [org.eclipse.core.jobs 3.10.1100.v20210111-0815]
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.18.100.v20210122-1536]
+> Start DBeaver Core Plug-in [org.jkiss.dbeaver.core 21.1.3.202107181810]
+2021-08-04 08:50:30.467 - Initializing DBeaver 21.1.3
+2021-08-04 08:50:30.468 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810
+2021-08-04 08:50:30.468 - Initialize Core...
+2021-08-04 08:50:30.469 - Can't find BC security provider. Use default JCE.
+2021-08-04 08:50:30.469 - BouncyCastle not registered, using the default JCE provider
+> Start Core File Systems [org.eclipse.core.filesystem 1.7.700.v20200110-1734]
+> Start Core Resource Management [org.eclipse.core.resources 3.14.0.v20210215-0934]
+2021-08-04 08:50:30.664 - Initialize base platform...
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.61.202107181810]
+2021-08-04 08:50:30.688 - Core initialized (220ms)
+2021-08-04 08:50:30.689 - Create display
+2021-08-04 08:50:30.815 - DBeaver 21.1.3.202107181810 is starting
+2021-08-04 08:50:30.816 - OS: Linux 5.4.0-80-generic (amd64)
+2021-08-04 08:50:30.816 - Java version: 11.0.11 by AdoptOpenJDK (64bit)
+2021-08-04 08:50:30.816 - Install path: '/usr/share/dbeaver'
+2021-08-04 08:50:30.816 - Instance path: 'file:/home/csantiago/.local/share/DBeaverData/workspace6/'
+2021-08-04 08:50:30.816 - Memory available 64Mb/1024Mb
+2021-08-04 08:50:30.834 - Starting RMI server at 37809
+2021-08-04 08:50:30.886 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.16.0.v20201230-1610]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.2.600.v20210110-1654]
+> Start Eclipse Contexts [org.eclipse.e4.core.contexts 1.8.400.v20191217-1710]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+> Start EMF Common [org.eclipse.emf.common 2.22.0.v20210114-1734]
+> Start EMF Ecore [org.eclipse.emf.ecore 2.23.0.v20200630-0516]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse UI Dependency Injection [org.eclipse.e4.ui.di 1.3.0.v20210222-1018]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.4.100.v20201221-2332]
+> Start Expression Language [org.eclipse.core.expressions 3.7.100.v20210203-1000]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.15.0.v20201125-0918]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.0.v20201119-1132]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.16.0.v20200507-0938]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.14.100.v20201217-1340]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.76.202107181810]
+2021-08-04 08:50:32.858 - Configure workbench window
+> Start Help System Core [org.eclipse.help 3.8.800.v20200525-0755]
+2021-08-04 08:50:33.090 - Create actions
+2021-08-04 08:50:33.099 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2021-08-04 08:50:33.099 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2021-08-04 08:50:33.099 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2021-08-04 08:50:33.818 - Initialize workbench window
+2021-08-04 08:50:33.839 - Finish initialization
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.61.202107181810]
+> Start Default Text Editor [org.eclipse.ui.editors 3.14.0.v20210215-0846]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.16.0.v20210120-0733]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.21.202107181810]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.21.202107181810]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.51.202107181810]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.61.202107181810]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.600.v20210126-1005]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.3.800.v20200422-1935]
+> Start Internet Connection Management [org.eclipse.core.net 1.3.1000.v20200715-0827]
+2021-08-04 08:50:35.433 - Loading user drivers configuration from '/home/csantiago/.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.core/drivers.xml'
+2021-08-04 08:50:35.459 - Total database drivers: 90 (90)
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.61.202107181810]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.98.202107181810]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.67.202107181810]
+Fontconfig error: Cannot load default config file: No such file: (null)
+[3013:3013:0804/085046.251319:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2923:2923:0804/085930.383125:ERROR:CONSOLE(0)] "The source list for Content Security Policy directive 'frame-ancestors' contains a source with an invalid path: '/views/DSRPrivacyDashboard6/DSRPrivacyReport?:embed=yes&:tabs=yes&:toolbar=yes'. The query component, including the '?', will be ignored.", source: https://myvmware.workspaceair.com/SAAS/auth/login?dest=https://myvmware.workspaceair.com/SAAS/API/1.0/GET/apps/launch/app/cc5f0f6a-5782-4321-a8d1-0c0e1aa75e0f?appLaunchId=_1f8333c7649a9518963984fdb962e891&resourceUuid=cc5f0f6a-5782-4321-a8d1-0c0e1aa75e0f#/catalog (0)
+2021-08-04 09:04:54.653 - Connect with 'auth_service_2' (postgres-jdbc-17ae7ff9094-332e2855e2f84a6b)
+> Start DBeaver PostgreSQL Support [org.jkiss.dbeaver.ext.postgresql 2.1.134.202107181810]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.85.202107181810]
+2021-08-04 09:04:54.735 - Execution context opened (auth_service_2; Main <auth_service_2>; 0)
+2021-08-04 09:04:54.737 - Initiate connection to PostgreSQL database [auth_service_2@localhost] for Main <auth_service_2>
+2021-08-04 09:04:54.896 - Execution context opened (auth_service_2; Metadata <auth_service_2>; 1)
+2021-08-04 09:04:54.896 - Initiate connection to PostgreSQL database [auth_service_2@localhost] for Metadata <auth_service_2>
+2021-08-04 09:04:54.959 - Connected (postgres-jdbc-17ae7ff9094-332e2855e2f84a6b, PostgreSQL JDBC Driver [42.2.20])
+
+(DBeaver:2973): Gtk-WARNING **: 09:04:55.689: Negative content width -5 (allocation 1, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+> Start GEF (MVC) [org.eclipse.gef 3.11.0.201606061308]
+> Start Draw2d [org.eclipse.draw2d 3.10.100.201606061308]
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:16.800: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node scrolledwindow, owner GtkScrolledWindow)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:16.811: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:16.819: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:16.825: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:16.861: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node scrolledwindow, owner GtkScrolledWindow)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.035: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.036: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.037: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.052: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.053: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.053: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.092: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.093: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.093: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.097: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.098: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.099: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.116: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.117: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.117: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.125: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.126: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:17.126: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:23.635: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:23.637: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:05:23.637: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+[7336:23:0804/092159.208367:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[3015:3021:0804/092527.473166:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2923:2923:0804/092527.699866:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+[2923:2923:0804/092556.069520:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:13.985: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:13.987: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:13.987: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:16.724: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:16.724: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:2973): Gtk-WARNING **: 09:33:16.725: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+2021-08-04 09:33:18.972 - Connect with 'auth_service_2_dev' (postgres-jdbc-17b082771a0-2ebd83abe11b6adb)
+2021-08-04 09:33:18.972 - Execution context opened (auth_service_2_dev; Main <auth_service_2_dev>; 2)
+2021-08-04 09:33:18.973 - Initiate connection to PostgreSQL database [auth_service_2_dev@pathfinder.ckcpee955mpz.us-east-2.rds.amazonaws.com] for Main <auth_service_2_dev>
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.52.202107181810]
+2021-08-04 09:33:38.976 - Connection failed (postgres-jdbc-17b082771a0-2ebd83abe11b6adb)
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	... 26 more
+2021-08-04 09:33:38.978 - org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	... 26 more
+2021-08-04 09:33:38.982 - Connection attempt timed out.
+org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-04 09:34:04.637 - Connect with 'auth_service_2_dev' (postgres-jdbc-17b082771a0-2ebd83abe11b6adb)
+2021-08-04 09:34:04.642 - Execution context opened (auth_service_2_dev; Main <auth_service_2_dev>; 3)
+2021-08-04 09:34:04.642 - Initiate connection to PostgreSQL database [auth_service_2_dev@pathfinder.ckcpee955mpz.us-east-2.rds.amazonaws.com] for Main <auth_service_2_dev>
+2021-08-04 09:34:24.643 - Connection failed (postgres-jdbc-17b082771a0-2ebd83abe11b6adb)
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	... 26 more
+2021-08-04 09:34:24.644 - org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection attempt timed out.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	... 26 more
+2021-08-04 09:34:24.646 - Connection attempt timed out.
+org.postgresql.util.PSQLException: Connection attempt timed out.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:429)
+	at org.postgresql.Driver.connect(Driver.java:271)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:176)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:195)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:457)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:100)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:222)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:115)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:240)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:146)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:97)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:89)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:97)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:108)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:919)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:70)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:217)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:77)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+> Start DBeaver PostgreSQL Support UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.37.202107181810]
+> Start DBeaver SSH tunnels UI [org.jkiss.dbeaver.net.ssh.ui 1.0.82.202107181810]
+> Start DBeaver SSH tunnels [org.jkiss.dbeaver.net.ssh 1.0.82.202107181810]
+2021-08-04 09:34:38.619 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+[7336:23:0804/093542.518775:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[7336:23:0804/094352.491359:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[2923:2923:0804/100702.359373:ERROR:password_sync_bridge.cc(446)] Passwords datatype error was encountered: Failed to load entries from password store. Encryption service failure.
+[15397:22:0804/103513.242354:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[15397:22:0804/103548.698475:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[15397:22:0804/103548.698747:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+Fontconfig error: Cannot load default config file: No such file: (null)
+[3015:3021:0804/113809.162185:ERROR:ssl_client_socket_impl.cc(981)] handshake failed; returned -1, SSL error code 1, net_error -101
+Icon theme "gnome" not found.
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+Icon theme "Mint-X" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+2021-08-04 13:21:28.970 - System suspend detected! Reinitialize all remote connections.
+[2923:2995:0804/132129.033384:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[2923:2995:0804/132129.033456:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[2923:2995:0804/132134.241482:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[2923:2995:0804/132134.241548:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[2923:2995:0804/142338.681643:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[2923:2995:0804/142338.681713:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+> Start Team Support Core [org.eclipse.team.core 3.8.1100.v20200806-0621]
+2021-08-04 14:45:08.157 - DBeaver is stopping
+2021-08-04 14:45:08.158 - Stop RMI server
+2021-08-04 14:45:08.163 - DBeaver shutdown completed
+2021-08-04 14:45:08.204 - Shutdown Core...
+2021-08-04 14:45:08.259 - Execution context closed (auth_service_2, 0)
+2021-08-04 14:45:08.310 - Execution context closed (auth_service_2, 1)
+2021-08-04 14:45:08.310 - Disconnected (postgres-jdbc-17ae7ff9094-332e2855e2f84a6b)
+2021-08-04 14:45:08.428 - Shutdown completed in 224ms
+Icon theme "gnome" not found.
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+Icon theme "Mint-X" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+18:40:22:0609 Gs  plugin appstream took 2.5 seconds to do setup
+18:40:22:0616 Gs  enabled plugins: desktop-categories, fwupd, os-release, packagekit, packagekit-local, packagekit-offline, packagekit-proxy, packagekit-refine-repos, packagekit-refresh, packagekit-upgrade, packagekit-url-to-app, appstream, desktop-menu-path, hardcoded-blacklist, modalias, odrs, packagekit-refine, rewrite-resource, snap, packagekit-history, provenance, systemd-updates, generic-updates, provenance-license, icons, key-colors, key-colors-metadata
+18:40:22:0616 Gs  disabled plugins: dpkg, dummy, repos
+18:40:23:0191 Gs  not handling error failed for action refresh: E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal/InRelease  
+E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal-updates/InRelease  
+E: Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/focal-backports/InRelease  
+E: Failed to fetch http://security.ubuntu.com/ubuntu/dists/focal-security/InRelease  
+E: Failed to fetch http://dl.google.com/linux/chrome/deb/dists/stable/InRelease  
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+
+Icon theme "gnome" not found.
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+Icon theme "Mint-X" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+org.kde.debconf: 
+org.kde.debconf: 
+org.kde.debconf: DEBCONF <--- [ "DATA" ]  "ucf/title type title"
+org.kde.debconf: # NOTED: [ "ucf/title" ] [ "type" ]  "title"
+org.kde.debconf: DEBCONF --->  "0 ok"
+org.kde.debconf: DEBCONF <--- [ "DATA" ]  "ucf/title description Modified configuration file"
+org.kde.debconf: # NOTED: [ "ucf/title" ] [ "description" ]  "Modified configuration file"
+org.kde.debconf: DEBCONF --->  "0 ok"
+org.kde.debconf: DEBCONF <--- [ "SETTITLE" ]  "ucf/title"
+org.kde.debconf: DEBCONF: TITLE  "Modified configuration file"
+org.kde.debconf: DEBCONF --->  "0 ok"
+18:41:30:0278 PK  internal error: failed, but no error code: cancelled-priority
+[3200:3200:0805/083423.443715:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+> Start DBeaver Standalone [org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810]
+> Start Eclipse e4 Workbench [org.eclipse.e4.ui.workbench 1.12.100.v20210122-1731]
+> Start Eclipse IDE UI Application [org.eclipse.ui.ide.application 1.4.0.v20210122-1423]
+> Start Eclipse Workbench Model [org.eclipse.e4.ui.model.workbench 2.1.1000.v20210111-0958]
+> Start Eclipse Jobs Mechanism [org.eclipse.core.jobs 3.10.1100.v20210111-0815]
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.18.100.v20210122-1536]
+> Start DBeaver Core Plug-in [org.jkiss.dbeaver.core 21.1.3.202107181810]
+2021-08-05 08:34:25.258 - Initializing DBeaver 21.1.3
+2021-08-05 08:34:25.259 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 21.1.3.202107181810
+2021-08-05 08:34:25.259 - Initialize Core...
+2021-08-05 08:34:25.259 - Can't find BC security provider. Use default JCE.
+2021-08-05 08:34:25.259 - BouncyCastle not registered, using the default JCE provider
+> Start Core File Systems [org.eclipse.core.filesystem 1.7.700.v20200110-1734]
+> Start Core Resource Management [org.eclipse.core.resources 3.14.0.v20210215-0934]
+2021-08-05 08:34:25.438 - Initialize base platform...
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.61.202107181810]
+2021-08-05 08:34:25.464 - Core initialized (205ms)
+2021-08-05 08:34:25.466 - Create display
+
+(google-chrome:3104): IBUS-WARNING **: 08:34:25.512: Unable to connect to ibus: Could not connect: Connection refused
+2021-08-05 08:34:25.593 - DBeaver 21.1.3.202107181810 is starting
+2021-08-05 08:34:25.594 - OS: Linux 5.4.0-80-generic (amd64)
+2021-08-05 08:34:25.594 - Java version: 11.0.11 by AdoptOpenJDK (64bit)
+2021-08-05 08:34:25.595 - Install path: '/usr/share/dbeaver'
+2021-08-05 08:34:25.595 - Instance path: 'file:/home/csantiago/.local/share/DBeaverData/workspace6/'
+2021-08-05 08:34:25.595 - Memory available 64Mb/1024Mb
+2021-08-05 08:34:25.614 - Starting RMI server at 54685
+2021-08-05 08:34:25.670 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.16.0.v20201230-1610]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.2.600.v20210110-1654]
+> Start Eclipse Contexts [org.eclipse.e4.core.contexts 1.8.400.v20191217-1710]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+> Start EMF Common [org.eclipse.emf.common 2.22.0.v20210114-1734]
+> Start EMF Ecore [org.eclipse.emf.ecore 2.23.0.v20200630-0516]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse UI Dependency Injection [org.eclipse.e4.ui.di 1.3.0.v20210222-1018]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.4.100.v20201221-2332]
+> Start Expression Language [org.eclipse.core.expressions 3.7.100.v20210203-1000]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.15.0.v20201125-0918]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.0.v20201119-1132]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.16.0.v20200507-0938]
+
+(DBeaver:3157): IBUS-WARNING **: 08:34:27.460: Unable to connect to ibus: Could not connect: Connection refused
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.14.100.v20201217-1340]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.76.202107181810]
+2021-08-05 08:34:28.897 - Configure workbench window
+> Start Help System Core [org.eclipse.help 3.8.800.v20200525-0755]
+2021-08-05 08:34:29.223 - Create actions
+2021-08-05 08:34:29.231 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2021-08-05 08:34:29.231 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2021-08-05 08:34:29.231 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2021-08-05 08:34:30.256 - Initialize workbench window
+2021-08-05 08:34:30.267 - Finish initialization
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.61.202107181810]
+> Start Default Text Editor [org.eclipse.ui.editors 3.14.0.v20210215-0846]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.16.0.v20210120-0733]
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:31.157: Negative content width -5 (allocation 1, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.600.v20210126-1005]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.3.800.v20200422-1935]
+> Start Internet Connection Management [org.eclipse.core.net 1.3.1000.v20200715-0827]
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.51.202107181810]
+2021-08-05 08:34:33.250 - Loading user drivers configuration from '/home/csantiago/.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.core/drivers.xml'
+2021-08-05 08:34:33.259 - Total database drivers: 90 (90)
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.61.202107181810]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.61.202107181810]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.98.202107181810]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.67.202107181810]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.21.202107181810]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.21.202107181810]
+2021-08-05 08:34:33.480 - Connect with 'auth_service_2' (postgres-jdbc-17ae7ff9094-332e2855e2f84a6b)
+> Start DBeaver PostgreSQL Support [org.jkiss.dbeaver.ext.postgresql 2.1.134.202107181810]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.85.202107181810]
+2021-08-05 08:34:33.601 - Execution context opened (auth_service_2; Main <auth_service_2>; 0)
+2021-08-05 08:34:33.604 - Initiate connection to PostgreSQL database [auth_service_2@localhost] for Main <auth_service_2>
+2021-08-05 08:34:33.884 - Execution context opened (auth_service_2; Metadata <auth_service_2>; 1)
+2021-08-05 08:34:33.884 - Initiate connection to PostgreSQL database [auth_service_2@localhost] for Metadata <auth_service_2>
+2021-08-05 08:34:34.007 - Connected (postgres-jdbc-17ae7ff9094-332e2855e2f84a6b, PostgreSQL JDBC Driver [42.2.20])
+[3104:3104:0805/083434.244850:ERROR:password_sync_bridge.cc(446)] Passwords datatype error was encountered: Failed to load entries from password store. Encryption service failure.
+> Start GEF (MVC) [org.eclipse.gef 3.11.0.201606061308]
+> Start Draw2d [org.eclipse.draw2d 3.10.100.201606061308]
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:34.781: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:34.806: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:34.816: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+2021-08-05 08:34:34.950 - Open [https://dbeaver.io/product/version.xml]
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.267: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.268: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.268: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.295: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.295: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.296: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.383: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.383: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.384: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.390: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.395: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.396: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.427: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.428: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 08:34:35.428: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+[3104:3213:0805/083526.417789:ERROR:object_proxy.cc(622)] Failed to call method: org.freedesktop.Notifications.Notify: object_path= /org/freedesktop/Notifications: org.freedesktop.Notifications.Error.ExcessNotificationGeneration: Created too many similar notifications in quick succession
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:50.549: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:50.551: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:50.552: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:51.060: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:51.068: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:51.070: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:52.375: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:52.377: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:52.379: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:54.775: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:54.776: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+
+(DBeaver:3157): Gtk-WARNING **: 09:01:54.777: Negative content width -1 (allocation 5, extents 3x3) while allocating gadget (node separator, owner GtkSeparatorToolItem)
+[23119:25:0805/105300.219881:ERROR:webrtc_video_engine.cc(3414)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+Icon theme "gnome" not found.
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/16/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/22/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/24/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/32/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/48/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/64/"
+Invalid Context= "stock" line for icon theme:  "/usr/share/icons/ubuntu-mono-dark/stock/128/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+Icon theme "Mint-X" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+2021-08-05 17:30:20.977 - System suspend detected! Reinitialize all remote connections.
+[3104:3183:0805/173021.059675:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[3104:3183:0805/173021.060080:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[3104:3183:0805/173026.315654:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+[3104:3183:0805/173026.315725:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Gdk-Message: 18:24:44.874: DBeaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
